@@ -31,5 +31,4 @@ k-mean.ipynb
 -**Output**: Predicted customer clusters.
 ## Contribution
 Feel free to fork this repository and make contributions or improvements to the model or analysis.
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
